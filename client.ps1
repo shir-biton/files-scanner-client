@@ -36,7 +36,7 @@ if ($mode -eq 1) {
 
 
 ### File Scanner URI ###
-$URI = "http://localhost:5000/scan_file";
+$URI = "http://localhost:8080";
 
 
 ### Connect To File Scanner Service ###
